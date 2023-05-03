@@ -1,2 +1,0 @@
-# bigdata
-Proyecto final BigData
